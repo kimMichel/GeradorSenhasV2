@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GeradorSenhasV2</string>
+    <string name="numeric">Numérico</string>
+    <string name="alphanumeric">Alfa Numérico</string>
+    <string name="my_pass">Minhas Senhas</string>
+    <string name="special_char">Caracter Especial</string>
 </resources>
